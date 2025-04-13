@@ -1,5 +1,4 @@
 ## 2. UML Class Diagram (Mermaid.js)
-
 ```mermaid
 classDiagram
     class UserAccount {
